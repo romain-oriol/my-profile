@@ -1,0 +1,152 @@
+a	{
+	text-decoration: none;
+	color: #58ACFA;
+}
+
+a:hover {
+	color: white;
+}
+
+body {
+	background-color: #F7F9F9
+}
+
+#title{
+ font-family: 'Libre Baskerville', serif;
+}
+
+   .container	{
+   	width: 700px;
+   	margin: 40px auto;
+   }
+
+   .card-white	{
+   	background-color: white;
+   	padding: 30px;
+   	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+   	border-radius: 4px;
+   	text-align: center;
+   	margin: 20px;
+	font-family: 'PT Sans', sans-serif;
+   }
+
+   .img-circle	{
+   	border-radius: 50%
+   }
+
+   .btn-blue	{
+   	background-color: #127F87;
+   	color: white;
+   	padding: 11px 11px;
+   	border-radius: 10px;
+   }
+
+   .btn-blue:hover	{
+   	background-color: #0CA8B4
+   }
+ 
+ 	#btn-down {
+   	margin-bottom: 25px;
+   }
+
+   .list-inline	{
+    padding-left: 0px;
+   }
+
+   .list-inline li {
+   	display: inline;
+   	padding: 20px;
+   }
+
+   .list-inline i {
+   	font-size: 35px;
+   }
+
+  
+   #lkd {
+    color: rgb(40,103,178)
+   }
+
+   #fb {
+	color: rgb(59, 89, 152)
+   }
+
+   #insta {
+   	color: #DF01A5
+   }
+
+   .mail:hover {
+   	color: #AFDCDC;
+   }
+
+   .img-tennis {
+   	width: 110px;
+   	border-radius: 10px
+   }
+
+   .img-ski {
+    width: 140px;
+    border-radius: 10px
+   }
+
+   .img-tennisdetable {
+   	width: 130px;
+   	border-radius: 10px
+   }
+
+   .img-inline li {
+   	display: inline;
+   	padding: 25px;
+   	text-align: center;
+   	 }
+
+   li {
+   	list-style: none;
+   	padding-right: 40px;
+   	font-family: 'Lobster', cursive;
+	font-family: 'Noto Sans JP', sans-serif;
+   }
+
+    #list-effect ul {
+      border: 1px solid #ddd;
+      background-color: #eee;
+      list-style-type: none;
+      padding: 0px;
+      border-radius: 10px;
+      }
+    #list-effect ul li {
+      padding: 8px 12px;
+      border-bottom: 1px solid #ddd;
+      }
+    #liste ul li:last-child {
+      border-bottom: none;
+      }
+
+     @media (max-width: 1024px) {
+     	.container {
+     		width: 740px
+     	}
+     }
+
+      @media (max-width: 720px) {
+     	.container {
+     		width: 480px
+     	}
+     }
+
+      @media (max-width: 480px) {
+     	.container {
+     		width: 320px
+     	}
+     }
+
+
+
+ 
+
+   
+
+      
+      
+      
+      
